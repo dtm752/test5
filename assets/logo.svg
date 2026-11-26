@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" role="img" aria-label="Хрустальный Горизонт">
+  <defs>
+    <linearGradient id="crystalGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7fd4ff"/>
+      <stop offset="0.5" stop-color="#3aa0e8"/>
+      <stop offset="1" stop-color="#1c6bb0"/>
+    </linearGradient>
+    <linearGradient id="horizGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd97a"/>
+      <stop offset="1" stop-color="#ff9d4d"/>
+    </linearGradient>
+  </defs>
+  <!-- кристальные горы -->
+  <g>
+    <polygon points="20,88 55,26 90,88" fill="url(#crystalGrad)"/>
+    <polygon points="55,26 68,50 42,50" fill="#eaf6ff" opacity="0.9"/>
+    <polygon points="70,88 108,38 146,88" fill="#2f86c8"/>
+    <polygon points="108,38 119,57 97,57" fill="#dcefff" opacity="0.85"/>
+    <polygon points="126,88 158,48 190,88" fill="#63bdf0" opacity="0.9"/>
+    <polygon points="158,48 167,63 149,63" fill="#f2faff" opacity="0.85"/>
+    <!-- блики-грани -->
+    <polyline points="55,26 40,58 55,88" fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.55"/>
+    <polyline points="108,38 96,64 108,88" fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.5"/>
+  </g>
+  <!-- горизонт -->
+  <line x1="14" y1="92" x2="200" y2="92" stroke="url(#horizGrad)" stroke-width="4" stroke-linecap="round"/>
+  <!-- текстовый блок -->
+  <text x="222" y="58" font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="700" fill="#123b63" letter-spacing="1">ХРУСТАЛЬНЫЙ</text>
+  <text x="222" y="94" font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="300" fill="#2f86c8" letter-spacing="7">ГОРИЗОНТ</text>
+</svg>
