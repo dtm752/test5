@@ -370,3 +370,8 @@ body{font-family:Inter,"Arial",sans-serif;background:var(--paper)}
 .tour-badge-hit{background:#e7e5d8;color:#526b55}
 .section-heading h2,.gastro-copy h2,.request-intro h2{font-weight:650;letter-spacing:-.035em}
 @media(max-width:700px){.brand{width:190px}.brand-tagline{font-size:8px;letter-spacing:.12em}.hero h1{font-size:52px}}
+
+.hero-quote{margin:26px 0 0;max-width:560px;padding:16px 20px;border-left:2px solid #c8a66a;background:#203b3640;color:#f4f1e8;backdrop-filter:blur(2px)}
+.hero-quote p{margin:0 0 9px;font-family:Georgia,serif;font-size:clamp(17px,2vw,21px);line-height:1.45;font-style:italic}
+.hero-quote cite{font-size:11px;font-style:normal;letter-spacing:.08em;text-transform:uppercase;color:#e2d8c4}
+.brand img{max-height:none}

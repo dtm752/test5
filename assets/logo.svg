@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 132" role="img" aria-labelledby="t d">
-<title id="t">Хрустальный Горизонт</title><desc id="d">Гранёный силуэт скал Южного Урала с рекой, проходящей через центр знака</desc>
-<g transform="translate(8 8)">
-  <path d="M8 98 40 66 62 75 94 28 120 59 145 43 183 92 205 98" fill="none" stroke="#526b65" stroke-width="5" stroke-linejoin="round"/>
-  <path d="M40 66 62 75 94 28 108 61 83 56Z" fill="#9aa99a"/>
-  <path d="M94 28 120 59 108 61Z" fill="#d1d5c8"/>
-  <path d="M120 59 145 43 183 92 151 78 135 91Z" fill="#7d9286"/>
-  <path d="M62 75 83 56 108 61 120 59 135 91 110 84 91 99Z" fill="#b5bbaa"/>
-  <path d="M12 105 C48 90 70 112 101 99 S157 91 202 105" fill="none" stroke="#3d8b83" stroke-width="7" stroke-linecap="round"/>
-  <path d="M12 105 C48 90 70 112 101 99 S157 91 202 105" fill="none" stroke="#d7e4d8" stroke-width="1.5" stroke-linecap="round" opacity=".9"/>
-</g>
-<g fill="#203b36">
-  <text x="236" y="58" font-family="Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="1.1">ХРУСТАЛЬНЫЙ</text>
-  <text x="236" y="96" font-family="Arial, sans-serif" font-size="34" font-weight="400" letter-spacing="4.4">ГОРИЗОНТ</text>
-  <text x="238" y="119" font-family="Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.2" fill="#668078">ГОРЫ · РЕКИ · ЛЮДИ</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 132" role="img" aria-labelledby="t d"><title id="t">Хрустальный Горизонт</title><desc id="d">Гранёные скалы Южного Урала и река</desc><g transform="translate(8 8)"><path d="M8 98 40 66 62 75 94 28 120 59 145 43 183 92 205 98" fill="none" stroke="#526b65" stroke-width="5" stroke-linejoin="round"/><path d="M40 66 62 75 94 28 108 61 83 56Z" fill="#9aa99a"/><path d="M94 28 120 59 108 61Z" fill="#d1d5c8"/><path d="M120 59 145 43 183 92 151 78 135 91Z" fill="#7d9286"/><path d="M62 75 83 56 108 61 120 59 135 91 110 84 91 99Z" fill="#b5bbaa"/><path d="M12 105 C48 90 70 112 101 99 S157 91 202 105" fill="none" stroke="#3d8b83" stroke-width="7" stroke-linecap="round"/></g><g fill="#203b36"><text x="236" y="58" font-family="Arial,sans-serif" font-size="31" font-weight="700" letter-spacing="1.1">ХРУСТАЛЬНЫЙ</text><text x="236" y="96" font-family="Arial,sans-serif" font-size="34" font-weight="400" letter-spacing="4.4">ГОРИЗОНТ</text><text x="238" y="119" font-family="Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="3.2" fill="#668078">ГОРЫ · РЕКИ · ЛЮДИ</text></g></svg>
