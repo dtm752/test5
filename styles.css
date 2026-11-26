@@ -375,3 +375,37 @@ body{font-family:Inter,"Arial",sans-serif;background:var(--paper)}
 .hero-quote p{margin:0 0 9px;font-family:Georgia,serif;font-size:clamp(17px,2vw,21px);line-height:1.45;font-style:italic}
 .hero-quote cite{font-size:11px;font-style:normal;letter-spacing:.08em;text-transform:uppercase;color:#e2d8c4}
 .brand img{max-height:none}
+
+/* Approved Crystal Horizon identity — consolidated final overrides */
+:root{--pine:#123B43;--deep:#0D2B31;--cream:#F4F1E8;--paper:#FBFAF7;--ink:#172F35;--muted:#6B7F86;--line:#D7DFDD;--sun:#D7C9A6;--sun-deep:#9B8862;--iconbg:#E8EFEC}
+body{font-family:Inter,Arial,sans-serif;background:var(--paper);color:var(--ink)}
+h1,h2,h3,.brand,.button{font-family:Manrope,Inter,Arial,sans-serif}
+.brand-kicker{background:#F4F1E8;color:#6B7F86;text-align:left;padding:7px max(24px,calc((100vw - 1320px)/2));font-size:12px;letter-spacing:.08em;border-bottom:1px solid #D7DFDD}
+.brand-kicker strong{color:#123B43;font-weight:700}
+.site-header{background:#FBFAF7;border-bottom:1px solid #D7DFDD}
+.header-inner{min-height:96px;padding-top:8px;padding-bottom:8px;gap:26px}
+.brand{width:280px;flex:0 0 280px;display:block}
+.brand img{width:100%;height:auto;max-height:88px;object-fit:contain;object-position:left center}
+.brand-tagline{display:none!important}
+.main-nav{font-family:Inter,Arial,sans-serif;color:#123B43}
+.main-nav a:hover{color:#00A7A7}
+.button-dark{background:#123B43;color:#F4F1E8}
+.button-sun{background:#D7C9A6;color:#123B43}
+.hero{background:#123B43}
+.hero-photo{background-image:url('https://raw.githubusercontent.com/dtm752/test4/main/img/hero-ridge-light.jpg')!important;background-size:cover!important;background-position:center 48%!important}
+.hero-shade{background:linear-gradient(90deg,#0b2932c9 0%,#0b29328c 42%,#0b293226 75%,#0b29325e 100%),linear-gradient(0deg,#0b293280,transparent 58%)!important}
+.hero h1{font-family:Manrope,Inter,Arial,sans-serif;font-weight:800;letter-spacing:-.045em}
+.hero-quote{background:#123B4385;border-left:2px solid #00A7A7;color:#F4F1E8}
+.hero-quote cite{color:#D7C9A6}
+.featured-route{background:#F4F1E8;border-color:#D7DFDD}
+.featured-route-copy h2,.section-heading h2,.gastro-copy h2,.request-intro h2{color:#123B43}
+.tour-card,.contact-panel{border-color:#D7DFDD}
+.tour-card:nth-child(1) .tour-visual{background:url('https://raw.githubusercontent.com/dtm752/test4/main/img/aigir-real.jpg') center/cover}
+.tour-card:nth-child(2) .tour-visual{background:url('https://raw.githubusercontent.com/dtm752/test4/main/img/yandyk.jpg') center/cover}
+.tour-card:nth-child(3) .tour-visual{background:url('https://raw.githubusercontent.com/dtm752/test4/main/img/yalangas-ridge.jpg') center/cover}
+.tour-card:nth-child(4) .tour-visual{background:url('https://raw.githubusercontent.com/dtm752/test4/main/img/rafting.jpg') center/cover}
+.gastro-photo{background-image:url('https://raw.githubusercontent.com/dtm752/test4/main/img/gastro.jpg')!important;background-size:cover!important}
+.footer-photo{background-image:linear-gradient(90deg,#123B43d9,#123B4380),url('https://raw.githubusercontent.com/dtm752/test4/main/img/malinovaya.jpg')!important;background-size:cover!important;background-position:center 48%!important}
+.footer-logo{width:250px;max-height:100px;object-fit:contain;object-position:left center}
+@media(max-width:900px){.brand{width:230px;flex-basis:230px}.header-inner{gap:14px}}
+@media(max-width:760px){.header-inner{min-height:78px}.brand{width:190px;flex-basis:190px}.brand img{max-height:70px}.brand-kicker{padding-left:16px}.hero-content{min-height:470px}.hero-copy{padding:30px 0 42px}.hero-quote{margin-top:20px}}
