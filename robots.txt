@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dtm752.github.io/test5/sitemap.xml
