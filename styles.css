@@ -350,3 +350,23 @@ body{background:var(--paper);color:var(--ink)}
 .heading-note{font-size:.85rem;color:#7a93aa;max-width:34ch}
 @media (max-width:860px){.magnit-wrap,.request-wrap{grid-template-columns:1fr}.brand img{height:36px}}
 @media (max-width:520px){.tours-grid{grid-template-columns:1fr}.hero h1{font-size:2.2rem}}
+
+
+/* === Хрустальный Горизонт: актуальная визуальная система === */
+:root{--pine:#203b36;--deep:#172d29;--cream:#f4f1e8;--paper:#fbfaf6;--ink:#26332e;--muted:#718078;--line:#deded3;--sun:#c8a66a;--sun-deep:#a9854b;--hit:#557765;--newbie:#718b80;--fest:#7c7867;--gastro:#9a7850;--iconbg:#e9e7dc;--shadow:0 8px 28px #203b3610}
+body{font-family:Inter,"Arial",sans-serif;background:var(--paper)}
+.brand{width:258px}
+.brand-tagline{display:block;margin:-2px 0 0 3px;color:#64776f;font-size:10px;letter-spacing:.18em;text-transform:uppercase}
+.hero{background:#526b65}
+.hero-art.hero-photo{background:linear-gradient(115deg,#263f39 0%,#526b65 48%,#a7a58b 100%)}
+.hero-art.hero-photo:before{content:"";position:absolute;inset:0;background:linear-gradient(145deg,transparent 30%,#d7c9a655 30.2%,transparent 30.8%),linear-gradient(25deg,transparent 42%,#203b3655 42.2%,transparent 42.8%);clip-path:polygon(0 62%,14% 43%,25% 56%,40% 22%,55% 58%,69% 35%,84% 61%,100% 30%,100% 100%,0 100%)}
+.hero-shade{background:linear-gradient(90deg,#172d29d9 0%,#172d2999 42%,#172d2920 76%,#172d2966 100%),linear-gradient(0deg,#172d2977,transparent 55%)}
+.hero h1{font-family:Inter,Arial,sans-serif;font-size:clamp(48px,6vw,82px);font-weight:750;line-height:.98;letter-spacing:-.055em}
+.hero-lead{font-weight:400}
+.button-sun{background:var(--sun);color:#20332e}
+.button-sun:hover{background:#b9955d}
+.featured-route{background:#e9e7dc}
+.tour-card{border:1px solid #e4e0d6}
+.tour-badge-hit{background:#e7e5d8;color:#526b55}
+.section-heading h2,.gastro-copy h2,.request-intro h2{font-weight:650;letter-spacing:-.035em}
+@media(max-width:700px){.brand{width:190px}.brand-tagline{font-size:8px;letter-spacing:.12em}.hero h1{font-size:52px}}
