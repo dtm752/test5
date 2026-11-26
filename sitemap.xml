@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://dtm752.github.io/test5/</loc></url>
-<url><loc>https://dtm752.github.io/test5/pages/privacy.html</loc></url>
-<url><loc>https://dtm752.github.io/test5/pages/booking.html</loc></url>
+  <url><loc>https://dtm752.github.io/test5/</loc></url>
+  <url><loc>https://dtm752.github.io/test5/pages/marshrut-yalangas.html</loc></url>
+  <url><loc>https://dtm752.github.io/test5/pages/marshrut-aigir.html</loc></url>
+  <url><loc>https://dtm752.github.io/test5/pages/marshrut-yandyk.html</loc></url>
+  <url><loc>https://dtm752.github.io/test5/pages/marshrut-zubchatki.html</loc></url>
+  <url><loc>https://dtm752.github.io/test5/pages/marshrut-malinovaya.html</loc></url>
+  <url><loc>https://dtm752.github.io/test5/pages/marshrut-voda.html</loc></url>
+  <url><loc>https://dtm752.github.io/test5/pages/booking.html</loc></url>
+  <url><loc>https://dtm752.github.io/test5/pages/privacy.html</loc></url>
 </urlset>
