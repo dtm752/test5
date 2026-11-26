@@ -159,9 +159,9 @@ nav a:hover,.arrow-link:hover{color:var(--teal)}
 .contact-doc span{color:var(--teal-2)}
 
 /* Подвал */
-footer{background:#082832;color:#b8cdcf;padding:24px 0}
+footer{background:#06222b;color:#b8cdcf;padding:24px 0;border-top:1px solid rgba(255,255,255,.14)}
 .footer-inner{display:flex;align-items:center;justify-content:space-between;gap:30px}
-.footer-brand img{display:block;width:210px;height:82px;object-fit:contain}
+.footer-brand img{display:block;width:230px;height:90px;object-fit:contain}
 .footer-links{display:flex;align-items:center;gap:25px;font-size:10px;letter-spacing:.04em}
 .footer-links a:hover{color:white}
 
